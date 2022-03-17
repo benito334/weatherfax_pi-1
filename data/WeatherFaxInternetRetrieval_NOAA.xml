@@ -262,4 +262,15 @@
       <Area Name="6" lat1="18N" lat2="52N" lon1="157W"  long2="" />
     </Region>
   </Server>
-  </OCPNWeatherFaxInternetRetrieval>
+  <Server Name="NOAA Freezing Spray" Url="https://ocean.weather.gov/icing_rates/">
+    <Region Name="Alaska">
+      <Map Url="overland/gifs/ak/ak/over_latest_f012.gif" Contents="US Modified Overland 12hr" Area="1" />
+      <Map Url="stallabrass/gifs/ak/ak/stal_latest_f012.gif" Contents="Canadian Stallabrass 12hr" Area="1" />
+      <Map Url="overland/gifs/ak/ak/over_latest_f024.gif" Contents="US Modified Overland 24hr" Area="1" />
+      <Map Url="stallabrass/gifs/ak/ak/stal_latest_f024.gif" Contents="Canadian Stallabrass 24hr" Area="1" />
+      <Map Url="overland/gifs/ak/ak/over_latest_f036.gif" Contents="US Modified Overland 36hr" Area="1" />
+      <Map Url="stallabrass/gifs/ak/ak/stal_latest_f036.gif" Contents="Canadian Stallabrass 36hr" Area="1" />
+     <Area Name="1" lat1="50N" lat2="80N" lon1="160E" lon2="130W" />
+    </Region>
+  </Server>	
+</OCPNWeatherFaxInternetRetrieval>
