@@ -323,4 +323,5 @@
     <Coordinate Name="NOAA OPC 00Z - Atlantic - 9" X1="92" Y1="95" Lat1="60.00000" Lon1="-90.00000" X2="1075" Y2="695" Lat2="20.00000" Lon2="0.00000" Mapping="Mercator" MappingMultiplier="1.0000" MappingRatio="0.9948" />
     <Coordinate Name="NOAA OPC 00Z - Atlantic - 9b" X1="114" Y1="20" Lat1="50.00000" Lon1="-90.00000" X2="693" Y2="403" Lat2="30.00000" Lon2="-50.00000" Mapping="Mercator" MappingMultiplier="0.7000" MappingRatio="1.0155" />
     <Coordinate Name="NOAA OPC 00Z - Atlantic - 9a" X1="60" Y1="80" Lat1="60.00000" Lon1="-90.00000" X2="823" Y2="549" Lat2="20.00000" Lon2="0.00000" Mapping="Mercator" MappingMultiplier="0.8000" MappingRatio="0.9959" />
+    <Coordinate Name="NOAA Freezing Spray - Alaska - 1" X1="372" Y1="843" Lat1="70.00000" Lon1="150.00000" X2="1468" Y2="1410" Lat2="50.00000" Lon2="-130.00000" Mapping="Polar" InputPoleX="240" InputPoleY="-129" InputEquator="1.00000" InputTrueRatio="1.0000" MappingMultiplier="1.0000" MappingRatio="0.8769" />
 </WeatherFaxCoordinates>
